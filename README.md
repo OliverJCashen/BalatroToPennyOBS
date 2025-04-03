@@ -5,5 +5,6 @@ Python script to convert Balatro Chips to a hypothetical Gigantic Penny
 - OBS Websockets password must be added to the .py file
 - OBS Source names must be added to the .py file
 
-## Known Bugs
-- Script sometimes crashes after being left idle for a while. Unsure why.
+## Operation
+- Upon loaded the script, press F1 to calibrate where the "Round Score" is in Balatro on your screen.
+- Then, press F2, and the values for the penny based on your score should be sent to the appropriate OBS Source.
